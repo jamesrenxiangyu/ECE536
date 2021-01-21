@@ -1,2 +1,2 @@
-# ECE536
+# ECE536 Computer Vision
 Assignment
