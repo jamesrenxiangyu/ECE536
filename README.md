@@ -1,2 +1,2 @@
-# ECE56
+# ECE536
 Assignment
